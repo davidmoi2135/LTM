@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|d:\\hoctap\\2024-2025\\hk1\\ltm\\chess\\chess\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\matchgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\chessboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\chessboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\chessboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\chessboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\chesspiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\chessboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\queen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C232BB7-D4AF-43F4-B7B5-04D4BD75BD3E}|chess\\chess.csproj|solutionrelative:chess\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchGame.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\MatchGame.cs",
+              "RelativeDocumentMoniker": "chess\\MatchGame.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\MatchGame.cs",
+              "RelativeToolTip": "chess\\MatchGame.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAYwFcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:13:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Queen.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Queen.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\Queen.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Queen.cs",
+              "RelativeToolTip": "chess\\Pieces\\Queen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:24:33.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Login.cs",
+              "RelativeDocumentMoniker": "chess\\Login.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Login.cs [Design]",
+              "RelativeToolTip": "chess\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:20:13.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchGame.cs [Design]",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\MatchGame.cs",
+              "RelativeDocumentMoniker": "chess\\MatchGame.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\MatchGame.cs [Design]",
+              "RelativeToolTip": "chess\\MatchGame.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T07:12:25.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Login.cs",
+              "RelativeDocumentMoniker": "chess\\Login.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Login.cs",
+              "RelativeToolTip": "chess\\Login.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAgwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:27:28.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\TCPClient.cs",
+              "RelativeDocumentMoniker": "chess\\TCPClient.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\TCPClient.cs",
+              "RelativeToolTip": "chess\\TCPClient.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAYwIoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:29:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\Rook.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Rook.cs",
+              "RelativeToolTip": "chess\\Pieces\\Rook.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:24:50.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChessPiece.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessPiece.cs",
+              "RelativeDocumentMoniker": "chess\\ChessPiece.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessPiece.cs",
+              "RelativeToolTip": "chess\\ChessPiece.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:25:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChessBoardForm.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoardForm.cs",
+              "RelativeDocumentMoniker": "chess\\ChessBoardForm.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoardForm.cs",
+              "RelativeToolTip": "chess\\ChessBoardForm.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:11:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChessBoardForm.cs [Design]",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoardForm.cs",
+              "RelativeDocumentMoniker": "chess\\ChessBoardForm.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoardForm.cs [Design]",
+              "RelativeToolTip": "chess\\ChessBoardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:11:00.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\Pawn.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "chess\\Pieces\\Pawn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:24:12.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\Knight.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Knight.cs",
+              "RelativeToolTip": "chess\\Pieces\\Knight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:23:49.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChessBoard.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoard.cs",
+              "RelativeDocumentMoniker": "chess\\ChessBoard.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\ChessBoard.cs",
+              "RelativeToolTip": "chess\\ChessBoard.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:25:55.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Program.cs",
+              "RelativeDocumentMoniker": "chess\\Program.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Program.cs",
+              "RelativeToolTip": "chess\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:29:46.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "King.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\King.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\King.cs",
+              "RelativeToolTip": "chess\\Pieces\\King.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:23:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "chess\\Pieces\\Bishop.cs",
+              "ToolTip": "D:\\HOCTAP\\2024-2025\\HK1\\LTM\\chess\\chess\\Pieces\\Bishop.cs",
+              "RelativeToolTip": "chess\\Pieces\\Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T04:23:04.697Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
