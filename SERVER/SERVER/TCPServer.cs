@@ -131,13 +131,26 @@ namespace chess
             using (var connection = new SQLiteConnection(connectionString))
             {
                 connection.Open();
-                string query = "SELECT COUNT(*) FROM players WHERE username = @username AND password = @password";
+                string query = "SELECT COUNT(*) FROM players WHERE username = @username AND password = @password AND isOnline = 0";
                 using (var command = new SQLiteCommand(query, connection))
                 {
                     command.Parameters.AddWithValue("@username", username);
                     command.Parameters.AddWithValue("@password", password);
                     long count = (long)command.ExecuteScalar();
-                    return count > 0 ? "SUCCESS: Logged in" : "ERROR: Invalid username or password";
+                    if (count > 0)
+                        {
+                            string updateQuery = "UPDATE players SET isOnline = 1 WHERE username = @username";
+                            using (var updateCommand = new SQLiteCommand(updateQuery, connection))
+                            {
+                                updateCommand.Parameters.AddWithValue("@username", username);
+                                updateCommand.ExecuteNonQuery();
+                            }
+                            return "Login successful";
+                        }
+                        else
+                        {
+                            return "Invalid username or password, or user is already online";
+                        }
                 }
             }
         }
